@@ -31,6 +31,9 @@ $this->need('header.php');
 <?php $this->pageNav(); ?>
 </div><!-- /navigation -->
 
+<script language="javascript">
+$('a[href]').removeAttr("href");
+</script>
 
 </body>
 </html>
