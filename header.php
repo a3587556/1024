@@ -1,5 +1,6 @@
 <html>
 <head>
+<script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
 <meta http-equiv="content-type" content="text/html; charset=<?php $this->options->charset(); ?>" />	
 <style type="text/css">
 body {
